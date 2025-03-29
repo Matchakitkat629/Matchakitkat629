@@ -1,6 +1,9 @@
-## Hi there I'm Qanita. Here are some of my projects 👋
+# MY PROJECTS
 
-## Game Design Project
+## Hi there! My name's Qanita. Here are some of my projects! 
+
+## Hackathon Arcade Project
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matchakitkat629&repo=arcade-hackathon-project)](https://github.com/Matchakitkat629/arcade-hackathon-project)
 
 <!--
 **Matchakitkat629/Matchakitkat629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
